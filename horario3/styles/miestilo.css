@@ -1,0 +1,28 @@
+			table{
+				border: solid green;
+			}
+			.lengua{
+				background-color:red;
+			}
+			.tic{
+				background-color:purple;
+			}
+		    .tinds{
+				background-color:grey;
+			}
+			.ingles{
+				background-color: yellow;
+			}
+			.he{
+				background-color:orange;
+			}
+			.fisica{
+				background-color: green;
+			}
+			.mate{
+				background-color:blue;
+			}
+			.dibujo{
+				background-color:black;
+				color:yellow;
+			}
